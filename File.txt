@@ -1,0 +1,12 @@
+$ git log
+commit 3d6ece7b45020a49dd71c870bf0da151e499e431 (HEAD -> vetka, origin/vetka)
+Author: Olga <jarcova11@mail.ru>
+Date:   Mon Sep 12 14:10:40 2022 +0300
+
+    add file git.txt
+
+commit 0fc2b31d2350fa27c2ce4dc3a9f013ef8854b26d (origin/master, master)
+Author: Olga <jarcova11@mail.ru>
+Date:   Mon Sep 12 14:04:24 2022 +0300
+
+    pervaia versia
